@@ -1,0 +1,12 @@
+[package]
+name = "teteaunord"
+version = "1.0.0"
+license = "MIT OR Apache-2.0"
+authors = ["Ulysse McConnell <ulysse.mcconnell+dev@protonmail.com>"]
+edition = "2018"
+description = "tête au nord solves sudoku puzzles."
+
+[dependencies]
+
+sudoku = { path = "lib/" }
+clap = "2.33.3"
