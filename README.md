@@ -1,5 +1,5 @@
-![Test](https://github.com/umcconnell/servum/workflows/test/badge.svg)
-![Lint](https://github.com/umcconnell/servum/workflows/lint/badge.svg)
+![Test](https://github.com/umcconnell/teteaunord/workflows/test/badge.svg)
+![Lint](https://github.com/umcconnell/teteaunord/workflows/lint/badge.svg)
 
 # teteaunord
 
